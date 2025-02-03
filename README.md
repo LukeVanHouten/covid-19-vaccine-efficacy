@@ -1,3 +1,3 @@
-# stat342-final
+# Placebo-Controlled Efficacy Analysis of the COVID-19 Vaccine
 
-This is our final project.
+See `writeup.pdf`
