@@ -1,1 +1,3 @@
-# covid-19-vaccine-efficacy
+# stat342-final
+
+This is our final project.
